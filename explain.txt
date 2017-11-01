@@ -1,0 +1,7 @@
+home  首页部分
+news  新闻部分
+culture 企业文化部分
+delicious 焖之美味部分
+join 品牌加盟部分
+relation 联系我们
+ordergoods 订货平台部分
